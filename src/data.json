@@ -1,0 +1,24 @@
+{
+  "p_3_value": "According to the data from the System of Air Quality Weather Forecasting and Research website, the levels of tiny particulate matter (known as PM 2.5) that enter deep into the lungs reached as high as 700 micrograms per cubic metre in some areas of Delhi on November 6th. The air quality standard for PM 2.5 is 15 µg/m3 and anything above 81 µg/m3 falls under poor air quality standard.",
+  "p_4_value": "Some reports claimed that New Delhi's air quality was so severe it was equivalent to smoking 45 cigarettes a day. We looked at the data to see if this was true. ",
+  "p_5_value": "Click on your city to find out how many cigarettes you have effectively smoked because of last week's pollution.",
+  "compare-tabs_1_method": "1 cigarette is equivalent to an air pollution of 22 μg/m3 (Absolute value: 21.6 μg/m3) for one day.",
+  "compare-tabs_1_title": "Select your city",
+  "cities": [
+    {
+      "name": "Ghaziabad",
+      "aqi": "283 PM2.5",
+      "cigg": "12"
+    },
+    {
+      "name": "Ghaziabad",
+      "aqi": "283 PM2.5",
+      "cigg": "12"
+    },
+    {
+      "name": "Noida",
+      "aqi": "213 PM2.5",
+      "cigg": "10"
+    }
+  ]
+}
